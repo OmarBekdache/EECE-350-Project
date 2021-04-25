@@ -10,7 +10,6 @@
 # into the final code
 # comments that clarify the code were added by Omar Bekdache
 
-
 import socket
 import time
 
