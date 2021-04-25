@@ -8,6 +8,7 @@
 # Bandwidth calculation from both sending and receiving side was given to Simon Semaan
 # Then we all came together in multiple ZOOM meetings and shared each of our codes and ideas to finally combine them
 # into the final code
+# comments that clarify the code were added by Omar Bekdache
 
 import socket
 import time
